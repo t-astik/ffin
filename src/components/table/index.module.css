@@ -1,0 +1,46 @@
+/* span {
+    font-weight: 700;
+    font-size: 15px;
+} */
+
+.tableWrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.metaSection {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: end;
+}
+
+.number {
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.price {
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.date {
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.topLine {
+    border-bottom: 1px solid rgb(171, 171, 171);
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+.bottomLine {
+    border-bottom: 2px solid rgb(171, 171, 171);
+}
